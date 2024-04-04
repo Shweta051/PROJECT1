@@ -1,2 +1,1 @@
-create home page
-  create login page
+create logout
